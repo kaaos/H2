@@ -1,6 +1,6 @@
 # H2
 
- Utilize os dados enviados para montar uma apresentação contendo as principais informações que você conseguiu colher com os dados. Não se preocupe em mostrar todos os números que você encontrou, mas sim mostrar o que de mais relevante você descobriu com os dados. Você terá 3 dias parac oncluir o desafio.
+ Utilize os dados enviados para montar uma apresentação contendo as principais informações que você conseguiu colher com os dados. Não se preocupe em mostrar todos os números que você encontrou, mas sim mostrar o que de mais relevante você descobriu com os dados. Você terá 3 dias para concluir o desafio.
 
     # Tabela resultado:
      Data_acesso: o dia que o jogador realizou as ações.
