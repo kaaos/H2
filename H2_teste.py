@@ -347,7 +347,6 @@ ax.legend(fontsize='large', bbox_to_anchor=(0.3, 0.975))
 ax.set_ylim(bottom=0)
 
 # Edit the y-axis tick labels to show values in millions
-import matplotlib.ticker as ticker
 formatter = ticker.StrMethodFormatter('R${x:,.2f}')
 ax.yaxis.set_major_formatter(formatter)
 
@@ -436,7 +435,6 @@ for ano in ano_datab:
     plt.title(f'Buy-in total por geração em {ano}')
     plt.legend(legend_labels, loc='upper left', bbox_to_anchor=(1, 1))
     plt.show()
-#
 
 ## **Rake por geração/ano**
 
